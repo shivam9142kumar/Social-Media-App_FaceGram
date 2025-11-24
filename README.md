@@ -53,26 +53,24 @@
 * React's component-based architecture allows you to create a smooth user experience with interactive elements, animations, and transitions.
 
 # Screenshots💻:
+<img width="1256" height="707" alt="image" src="https://github.com/user-attachments/assets/7ee91bcf-f836-43f7-9a2a-9b2650d7a0f3" />
+<img width="1263" height="709" alt="image" src="https://github.com/user-attachments/assets/7702dc53-27d3-4014-aaf5-433e8457236e" />
+<img width="1912" height="880" alt="Screenshot 2025-11-24 011052" src="https://github.com/user-attachments/assets/e85b1602-248b-4a17-9763-4e57d8d61ec5" />
+<img width="1917" height="883" alt="Screenshot 2025-11-24 011247" src="https://github.com/user-attachments/assets/e0365d7c-4c4c-46ed-aa2c-071fd6bdca61" />
+<img width="1898" height="886" alt="Screenshot 2025-11-24 011523" src="https://github.com/user-attachments/assets/41f59210-faf5-4b03-9bec-cae7a4366e91" />
+<img width="1916" height="881" alt="Screenshot 2025-11-24 011426" src="https://github.com/user-attachments/assets/38ac50c8-320e-4aa6-8743-6028b2419460" />
+<img width="1897" height="883" alt="Screenshot 2025-11-24 011625" src="https://github.com/user-attachments/assets/f88ac4c8-8a0b-4ed3-83ed-e9d73e7cc918" />
+<img width="1910" height="890" alt="Screenshot 2025-11-24 011841" src="https://github.com/user-attachments/assets/aaef6099-a4fb-4e7e-8f26-be07d63b0e35" />
+<img width="1906" height="902" alt="Screenshot 2025-11-24 011940" src="https://github.com/user-attachments/assets/4a48b0cf-6ad9-4c71-a0e5-69e608b22dc3" />
 
-![img-1](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/234d9200-7734-4278-a09d-93e3e090887e)
 
-![img-2](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/8156393f-2bc3-43b2-9c03-4318427f84d6)
 
-![img-3](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/20f294d7-ebed-41dc-a6d2-d4f5aab8f7ff)
 
-![img-4](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/d149ad69-7597-4bce-ba0c-72891ebf9de3)
 
-![img-5](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/ca06d7d4-18a3-4746-913d-005a9a29a487)
 
-![img-6](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/dcd2040e-52f2-4d2a-80da-01a4f3cdb0f7)
 
-![img-7](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/ef4a131a-566c-4b78-8fab-e2cdce7b2dc6)
 
-![img-8](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/4c73cc53-15c9-433b-be9b-939354915d24)
 
-![img-9](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/aff1c2b7-29bf-4d87-86e9-1887c59d8f4a)
-
-![img-10](https://github.com/iamvijay98/Social-Media-App-Frontend/assets/133564952/349dc3ca-f6e6-4c2d-9599-cb932e4ecb9e)
 
 
 
